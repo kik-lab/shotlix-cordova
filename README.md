@@ -2,7 +2,7 @@
 <p align="center">Make good use of bullets, make your way, collect numbers and get high scores!</p>
 
 
-<img src="https://github.com/kik-lab/shotlix/blob/master/public/assets/images/card.png?raw=true" width="100%" />
+<img src="https://github.com/shotlix/shotlix/blob/master/public/assets/images/card.png?raw=true" width="100%" />
 
 ---
 
