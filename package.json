@@ -40,7 +40,8 @@
       "monaca-plugin-monaca-core": {}
     },
     "platforms": [
-      "ios"
+      "ios",
+      "android"
     ]
   },
   "devDependencies": {
